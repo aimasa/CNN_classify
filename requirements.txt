@@ -1,0 +1,14 @@
+tqdm==4.36.1
+gensim==3.8.1
+cachetools==3.1.1
+jieba==0.39
+smart_open==1.8.4
+matplotlib==3.1.2
+pandas==0.25.3
+tf_nightly_gpu_2.0_preview==2.0.0.dev20191002
+~umpy==1.17.3
+numpy==1.18.0
+plotly==4.4.1
+progressbar33==2.4
+scikit_learn==0.22.1
+tensorflow==2.0.0

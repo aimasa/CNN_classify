@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pro_data/process_data.py" line="253" />
+    <bookmark url="file://$PROJECT_DIR$/pro_data/process_data.py" line="181" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abdd12d7-028f-402e-83ff-49622ab0bd61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/cnn-classifiy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/moon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/cnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/normal_param.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro_data/process_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_word2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1076.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1076.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1076.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1100.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1100.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1100.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-169.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-169.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-169.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-200.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-200.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-200.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-300.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-300.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-300.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-338.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-338.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-338.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-400.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-400.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-400.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-907.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-907.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-907.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/dev/events.out.tfevents.1578298069.DESKTOP-DTTJ3C3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/dev/events.out.tfevents.1578298185.DESKTOP-DTTJ3C3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/dev/events.out.tfevents.1578298682.DESKTOP-DTTJ3C3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/dev/events.out.tfevents.1578299141.DESKTOP-DTTJ3C3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/train/events.out.tfevents.1578298069.DESKTOP-DTTJ3C3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/train/events.out.tfevents.1578298185.DESKTOP-DTTJ3C3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/train/events.out.tfevents.1578298682.DESKTOP-DTTJ3C3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/train/events.out.tfevents.1578299141.DESKTOP-DTTJ3C3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vocab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word2vec/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word2vec/word2vec.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1981">
+              <caret line="108" column="64" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/cnn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro_data/process_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="168" selection-start-line="168" selection-end-line="168" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/evaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="93" selection-start-line="93" selection-end-line="96" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/normal_param.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>channel_num</find>
+      <find>loss</find>
+      <find>os.listdir</find>
+      <find>split_data</find>
+      <find>process_data</find>
+      <find>similarity</find>
+      <find>tokens</find>
+      <find>doc</find>
+      <find>print</find>
+      <find>checkpoint_prefix</find>
+      <find>current_step</find>
+      <find>global_step</find>
+      <find>dev_summary_op</find>
+      <find>train_summary_op</find>
+      <find>train_op</find>
+      <find>util</find>
+      <find>inference</find>
+      <find>dropout_keep_prob</find>
+      <find>score</find>
+      <find>sess,tf.train.latest_checkpoint</find>
+      <find>predictions</find>
+      <find>load_data</find>
+      <find>accuracy</find>
+      <find>all_text_path</find>
+      <find>batch</find>
+      <find>normal_param.train_path</find>
+      <find>pro_data</find>
+      <find>input_y</find>
+      <find>deal_data</find>
+      <find>TensorFlow</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>process_data_init</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_cnn_main.py" />
+        <option value="$PROJECT_DIR$/cache.py" />
+        <option value="$PROJECT_DIR$/word2vec/word2vec.py" />
+        <option value="$PROJECT_DIR$/runs/1577276010/checkpoint/checkpoint" />
+        <option value="$PROJECT_DIR$/runs/test/checkpoint/checkpoint" />
+        <option value="$PROJECT_DIR$/../contact-classification/script/train_and_test.py" />
+        <option value="$PROJECT_DIR$/runs/run_4_op_0.001_batch_size_4/checkpoint/checkpoint" />
+        <option value="$PROJECT_DIR$/pro_data/download.py" />
+        <option value="$PROJECT_DIR$/runs/run_7_op_0.001_batch_size_128/checkpoint/checkpoint" />
+        <option value="$PROJECT_DIR$/pro_data/script_split_data.py" />
+        <option value="$PROJECT_DIR$/pro_data/train_and_test.py" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/model/cnn.py" />
+        <option value="$PROJECT_DIR$/normal_param.py" />
+        <option value="$PROJECT_DIR$/runs/run_10/checkpoint/checkpoint" />
+        <option value="$PROJECT_DIR$/pro_data/process_data.py" />
+        <option value="$PROJECT_DIR$/evaluation.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/../script_for_python/split_files_in_dir/train_and_test.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cnn-classifiy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnn-classifiy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../contract_reptile" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\phython workspace\cnn-classifiy\pro_data" />
+      <recent name="F:\phython workspace\cnn-classifiy\runs\test\checkpoint" />
+      <recent name="F:\phython workspace\cnn-classifiy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\phython workspace\cnn-classifiy\pro_data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cnn-classifiy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cnn-classifiy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cnn-classifiy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\phython workspace\cnn-classifiy\evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cnn-classifiy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_and_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cnn-classifiy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pro_data/train_and_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.evaluation" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.train_and_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abdd12d7-028f-402e-83ff-49622ab0bd61" name="Default Changelist" comment="" />
+      <created>1575336907457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575336907457</updated>
+      <workItem from="1575336919004" duration="5422000" />
+      <workItem from="1575377228206" duration="5304000" />
+      <workItem from="1575450262211" duration="84611000" />
+      <workItem from="1576136291975" duration="15625000" />
+      <workItem from="1576199408958" duration="22832000" />
+      <workItem from="1576463835770" duration="5149000" />
+      <workItem from="1576479607629" duration="68000" />
+      <workItem from="1576479694301" duration="943000" />
+      <workItem from="1576480666800" duration="182000" />
+      <workItem from="1576480901120" duration="17293000" />
+      <workItem from="1576545380593" duration="13099000" />
+      <workItem from="1576567844366" duration="159405000" />
+      <workItem from="1577176707125" duration="15801000" />
+      <workItem from="1577237524476" duration="7051000" />
+      <workItem from="1577249373236" duration="12789000" />
+      <workItem from="1577263262708" duration="45663000" />
+      <workItem from="1577426540769" duration="32817000" />
+      <workItem from="1577691590284" duration="26020000" />
+      <workItem from="1577777620024" duration="12907000" />
+      <workItem from="1577926198870" duration="19417000" />
+      <workItem from="1578014338228" duration="11817000" />
+      <workItem from="1578037472441" duration="13489000" />
+      <workItem from="1578128090471" duration="45671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="573375000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.25906184" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" sideWeight="0.5025381" weight="0.17857143" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32814237" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42491657" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.40868598" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.3872768" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31848553" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32814237" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.35714287" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/Lib/site-packages/tensorflow/python/training/optimizer.py</url>
+          <line>460</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_word2vec.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="model_ver.wv[&quot;公园&quot;]" language="Python" />
+        <watch expression="model_ver." language="Python" />
+        <watch expression="tmp" language="Python" />
+        <watch expression="labels_and_contents" language="Python" />
+        <watch expression="texts_filename" language="Python" />
+        <watch expression="model.wv[text]" language="Python" />
+        <watch expression="os.path.join('G:/正保法律实务', docname + '.doc')" language="Python" />
+        <watch expression="dict[index]" language="Python" />
+        <watch expression="tf.train.latest_checkpoint(             os.path.join(os.path.curdir, &quot;runs&quot;, normal_param.model_name, &quot;checkpoint&quot;))" language="Python" />
+        <watch expression="vocab_processor.vocabulary_._mapping['斯竹']" />
+        <watch expression="os.path.exists(os.path.join(&quot;./&quot;, &quot;vocab&quot;))" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cnn_classifiy$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1578308723138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cnn_classifiy$normal_param.coverage" NAME="normal_param Coverage Results" MODIFIED="1578135654727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cnn_classifiy$run_word2vec.coverage" NAME="run_word2vec Coverage Results" MODIFIED="1576855326914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cnn_classifiy$train_and_test.coverage" NAME="train_and_test Coverage Results" MODIFIED="1578136205884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pro_data" />
+    <SUITE FILE_PATH="coverage/cnn_classifiy$test.coverage" NAME="test Coverage Results" MODIFIED="1578297821727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cnn_classifiy$download.coverage" NAME="download Coverage Results" MODIFIED="1577963471745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pro_data" />
+    <SUITE FILE_PATH="coverage/cnn_classifiy$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1578308684824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cnn_classifiy$process_data.coverage" NAME="process_data Coverage Results" MODIFIED="1578038510559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pro_data" />
+    <SUITE FILE_PATH="coverage/cnn_classifiy$cnn.coverage" NAME="cnn Coverage Results" MODIFIED="1577174386240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/cnn_classifiy$train.coverage" NAME="train Coverage Results" MODIFIED="1578299130786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>os.path.exists(os.path.join(&quot;./&quot;, &quot;vocab&quot;))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tf.train.latest_checkpoint(             os.path.join(os.path.curdir, &quot;runs&quot;, normal_param.model_name, &quot;checkpoint&quot;))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dict[index]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.join(os.path.curdir, &quot;runs&quot;, normal_param.model_name,&quot;checkpoint&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.join(os.path.curdir, &quot;runs&quot;, normal_param.model_name,&quot;checkpoint&quot;))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.join('G:/正保法律实务', docname + '.doc')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.join('G:/正保法律实务', docname + '.doc'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>model.wv[text]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>texts_filename</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>labels_and_contents</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/training/optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="415" column="38" selection-start-line="415" selection-start-column="24" selection-end-line="415" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2036615904/builtins.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2036615904/_random.py" />
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/eager/execute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/gensim/downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="433" column="15" selection-start-line="433" selection-start-column="15" selection-end-line="433" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/gensim/test/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/gensim/models/base_any2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1445" column="31" selection-start-line="1445" selection-start-column="31" selection-end-line="1445" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/tempfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="524" column="48" selection-start-line="524" selection-start-column="48" selection-end-line="524" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/gensim/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
+          <folding>
+            <element signature="e#226#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/gensim/models/deprecated/doc2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="607" column="8" selection-start-line="607" selection-start-column="8" selection-end-line="607" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/gensim/models/word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1583" column="16" selection-start-line="1583" selection-start-column="16" selection-end-line="1583" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1390">
+          <caret line="153" column="9" selection-start-line="153" selection-start-column="9" selection-end-line="153" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cnn_main.py" />
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/_api/v1/initializers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="240" column="31" selection-start-line="240" selection-start-column="31" selection-end-line="240" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/core/protobuf/config_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1189" selection-start-line="1189" selection-end-line="1189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/test/checkpoint/checkpoint" />
+    <entry file="file://$PROJECT_DIR$/runs/1577276010/checkpoint/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="706" column="36" selection-start-line="706" selection-start-column="36" selection-end-line="706" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../contact-classification/pre_train/articla_participle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/run_4_op_0.001_batch_size_4/checkpoint/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="125" selection-start-line="4" selection-start-column="125" selection-end-line="4" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58650">
+          <caret line="2376" column="54" selection-start-line="2376" selection-start-column="54" selection-end-line="2376" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="751" column="6" selection-start-line="751" selection-start-column="6" selection-end-line="751" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="1503" column="50" selection-start-line="1503" selection-start-column="50" selection-end-line="1503" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="251" column="51" selection-start-line="251" selection-start-column="51" selection-end-line="251" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/urllib3/util/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16425">
+          <caret line="657" column="38" selection-start-line="657" selection-start-column="38" selection-end-line="657" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/jieba/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/ops/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-353">
+          <caret line="2751" column="46" lean-forward="true" selection-start-line="2751" selection-start-column="46" selection-end-line="2751" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/run_6_op_0.001_batch_size_128/checkpoint/checkpoint">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/run_7_op_0.001_batch_size_128/checkpoint/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../script_for_python/split_files_in_dir/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../script_for_python/split_files_in_dir/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_data/script_split_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_data/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="74" column="75" lean-forward="true" selection-start-line="74" selection-start-column="75" selection-end-line="74" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vocab">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/run_10/checkpoint/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="96" selection-start-column="96" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="93" selection-start-line="93" selection-end-line="96" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word2vec/word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../script_for_python/split_files_in_dir/train_and_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/normal_param.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_data/process_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1981">
+          <caret line="108" column="64" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4575">
+          <caret line="183" column="26" lean-forward="true" selection-start-line="183" selection-start-column="26" selection-end-line="183" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2005571" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
