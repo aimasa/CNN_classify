@@ -6,62 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abdd12d7-028f-402e-83ff-49622ab0bd61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cnn-classifiy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/moon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/cnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/normal_param.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pro_data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pro_data/process_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_word2vec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/checkpoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1000.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1000.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1000.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1076.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1076.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1076.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1100.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1100.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-1100.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-169.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-169.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-169.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-200.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-200.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-200.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-300.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-300.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-300.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-338.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-338.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-338.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-400.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-400.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-400.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-907.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-907.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/checkpoint/model-907.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/dev/events.out.tfevents.1578298069.DESKTOP-DTTJ3C3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/dev/events.out.tfevents.1578298185.DESKTOP-DTTJ3C3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/dev/events.out.tfevents.1578298682.DESKTOP-DTTJ3C3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/dev/events.out.tfevents.1578299141.DESKTOP-DTTJ3C3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/train/events.out.tfevents.1578298069.DESKTOP-DTTJ3C3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/train/events.out.tfevents.1578298185.DESKTOP-DTTJ3C3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/train/events.out.tfevents.1578298682.DESKTOP-DTTJ3C3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs/run_10/summary/train/events.out.tfevents.1578299141.DESKTOP-DTTJ3C3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vocab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word2vec/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word2vec/word2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/cnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="112">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -210,10 +164,11 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/../script_for_python/split_files_in_dir/train_and_test.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="130" />
     <option name="width" value="1440" />
@@ -232,6 +187,21 @@
             <path>
               <item name="cnn-classifiy" type="b2602c69:ProjectViewProjectNode" />
               <item name="cnn-classifiy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnn-classifiy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnn-classifiy" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnn-classifiy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnn-classifiy" type="462c0819:PsiDirectoryNode" />
+              <item name="pro_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnn-classifiy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnn-classifiy" type="462c0819:PsiDirectoryNode" />
+              <item name="runs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -428,12 +398,12 @@
       <workItem from="1577926198870" duration="19417000" />
       <workItem from="1578014338228" duration="11817000" />
       <workItem from="1578037472441" duration="13489000" />
-      <workItem from="1578128090471" duration="45671000" />
+      <workItem from="1578128090471" duration="49801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="573375000" />
+    <option name="totallyTimeSpent" value="577505000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,7 +417,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.25906184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.25906184" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Structure" order="2" sideWeight="0.5025381" weight="0.17857143" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -461,7 +431,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.3872768" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31848553" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31848553" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32814237" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -578,14 +548,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/training/optimizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="415" column="38" selection-start-line="415" selection-start-column="24" selection-end-line="415" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2036615904/builtins.py" />
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2036615904/_random.py" />
     <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/eager/execute.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -911,15 +873,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4575">
-          <caret line="183" column="26" lean-forward="true" selection-start-line="183" selection-start-column="26" selection-end-line="183" selection-end-column="26" />
+        <state relative-caret-position="300">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.ignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/model/cnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        <state relative-caret-position="112">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
