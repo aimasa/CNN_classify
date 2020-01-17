@@ -12,7 +12,7 @@ import cache
 from tqdm import tqdm
 import evaluation
 import tempfile
-import word2vec.word2vec as word2vec
+import word2vec.MyCorpus as word2vec
 
 
 # import gensim
